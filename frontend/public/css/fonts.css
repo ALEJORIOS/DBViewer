@@ -1,0 +1,22 @@
+@font-face {
+  font-family: Inter;
+  src: url("./fonts/Inter.woff2");
+  font-weight: 100 900;
+}
+
+@font-face {
+  font-family: Roboto;
+  src: url("./fonts/Roboto.woff2");
+  font-weight: 100 900;
+}
+
+@font-face {
+  font-family: Outfit;
+  src: url("./fonts/Outfit.woff2");
+  font-weight: 100 900;
+}
+
+* {
+  font-family: Inter;
+  font-weight: 400;
+}
